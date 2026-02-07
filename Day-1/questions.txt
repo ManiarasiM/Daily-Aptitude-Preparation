@@ -1,0 +1,39 @@
+1. The average of four numbers is 36. If one number is 48, find the average of the
+remaining three numbers.
+
+2. The present age of A is twice B’s age. Five years ago, the ratio of their ages was 9 : 4.
+Find A’s present age.
+
+3. A shopkeeper buys an article for ₹800 and sells it for ₹680. Find his loss percentage.
+
+4. A train 150 m long crosses a pole in 10 seconds. Find its speed in km/hr.
+
+5. The ratio of two numbers is 5 : 8. If their sum is 78, find the smaller number.
+
+6. A man spends 40% of his income on rent and 25% on food. If he saves ₹4,200, which is
+35% of his income, find his total income.
+
+7. The average of 8 numbers is 55. If one number is removed, the new average becomes
+52. Find the removed number.
+
+8. A’s present age is three times B’s age. After 8 years, the ratio becomes 14 : 5. Find B’s
+present age.
+
+9. A shopkeeper sells an article at 20% profit. If the cost price is ₹450, find the selling price.
+
+10. A train running at 60 km/hr crosses a platform in 30 seconds. If the platform is 240 m
+long, find the length of the train.
+
+11. Two numbers are in the ratio 7 : 9. If the larger exceeds the smaller by 24, find the
+smaller number.
+
+12. A person scores 36 marks. This is 60% of the passing marks. Find the passing marks.
+
+13. The average age of A, B and C is 28. If A is 4 years older than B and B is 4 years older
+than C, find B’s age.
+
+14. A trader sells a shirt at 10% loss for ₹540. Find the cost price.
+
+15. A train 180 m long crosses another train 120 m long coming from the opposite direction
+at 54 km/hr in 12 seconds. Find the speed of the first train.
+
